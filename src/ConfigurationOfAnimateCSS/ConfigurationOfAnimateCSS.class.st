@@ -36,12 +36,12 @@ ConfigurationOfAnimateCSS class >> baseConfigurationClassIfAbsent: aBlock [
 ConfigurationOfAnimateCSS class >> catalogDescription [
 
 ^ 
-'The html5shiv is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer. This project allows to use this library in Seaside.'
+'A cross-browser library of CSS animations. As easy to use as an easy thing. This project allows to use this library in Seaside.'
 ]
 
 { #category : #catalog }
 ConfigurationOfAnimateCSS class >> catalogKeywords [
-	^ #(HTML web HTML5 Seaside HTML5Shiv)
+	^ #(HTML web HTML5 Seaside AnimateCSS)
 	
 ]
 
